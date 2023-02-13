@@ -88,8 +88,7 @@ body {
 }
 
 .code {
-  max-width: 375px;
-  max-height: 667px;
+  width: 375px;
   background-color: var(--clr-neutral-100);
   padding: 1rem;
   border-radius: 1rem;
